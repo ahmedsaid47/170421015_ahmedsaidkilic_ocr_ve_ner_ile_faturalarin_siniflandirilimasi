@@ -3,7 +3,7 @@
 # 🧾 OCR VE NER İLE FATURALARIN SINIFLANDIRILMASI
 
 <p align="center">
-  <img src="poster.png" alt="Proje Posteri" width="800"/>
+  <img src="Poster.png" alt="Proje Posteri" width="800"/>
 </p>
 
 ### 📱 Yapay Zeka Destekli Fatura İşleme ve Sınıflandırma Sistemi
