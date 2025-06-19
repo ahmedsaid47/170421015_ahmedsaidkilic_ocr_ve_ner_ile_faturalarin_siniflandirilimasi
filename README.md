@@ -390,10 +390,6 @@ Bu proje açık kaynak ruhuyla geliştirilmiştir. Katkılarınız için:
   <img src="https://img.shields.io/badge/Built%20with-Flutter-cyan?style=for-the-badge"/>
 </p>
 
-### 📞 İletişim
-- 📧 **Email**: ahmed.said.kilic@example.com
-- 💼 **LinkedIn**: [Proje Ekibi](https://linkedin.com)
-- 🐱 **GitHub**: [Invoice-OCR-NER](https://github.com)
 
 ---
 
