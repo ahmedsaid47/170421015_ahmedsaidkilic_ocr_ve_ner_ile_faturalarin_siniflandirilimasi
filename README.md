@@ -396,3 +396,5 @@ Bu proje açık kaynak ruhuyla geliştirilmiştir. Katkılarınız için:
 **© 2024 OCR ve NER ile Faturaların Sınıflandırılması Projesi. Tüm hakları saklıdır.**
 
 </div>
+
+
